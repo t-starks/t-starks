@@ -21,6 +21,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Captain&hide_progress=true&theme=cobalt2)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow-Captain&show_icons=true&theme=cobalt2)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shadow-Captain&theme=cobalt2&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
 
 

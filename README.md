@@ -19,7 +19,7 @@
 
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Captain&hide_progress=true&theme=cobalt2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Captain&layout=compact&theme=cobalt2)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow-Captain&show_icons=true&theme=cobalt2)
 

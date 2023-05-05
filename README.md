@@ -7,15 +7,16 @@
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%20%23000000.svg?logo=instagram&logoColor=%23E4405F)](https://www.instagram.com/sr_shelby02) 
-[![Twitter](https://img.shields.io/badge/Twitter-%20%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/sr_shelby0)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/sr_shelby02) 
+[![Twitter](https://icongr.am/devicon/twitter-original.svg?size=40&color=currentColor)](https://twitter.com/sr_shelby0)
 
 
 ### 💻 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-%20%23F16529.svg?logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![HTML](https://deviconapi.vercel.app/html5?color=E54D26ff&size=40)
+![CSS](https://deviconapi.vercel.app/css3?color=3D8FC6FF&size=40)
+![C++](https://deviconapi.vercel.app/cplusplus?color=9C033Aff&size=40)
+![JS](https://deviconapi.vercel.app/javascript?color=F0DB4FFF&size=40)
+![JAVA](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
 
 
 ### 📊 GitHub Stats:

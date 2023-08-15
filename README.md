@@ -2,9 +2,9 @@
 
 <!-- **Shadow-Captain/Shadow-Captain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- Views: [![](https://visitcount.itsvg.in/api?id=Shadow-Captain&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+- Views: [![](https://visitcount.itsvg.in/api?id=shadow-captain&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 - Telegram BOT: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/StarkIMC_Bot)
-- LinktreeÑ [![Linktree](https://img.shields.io/badge/Linktree-%23F39F37.svg?logo=linktree&logoColor=white)](https://www.linktree.com/Sr.Shelby)
+- Linktree: [![Linktree](https://img.shields.io/badge/Linktree-%23F39F37.svg?logo=linktree&logoColor=white)](https://www.linktree.com/Sr.Shelby)
 
 
 ### 🌐 Socials:

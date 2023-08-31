@@ -9,15 +9,15 @@
 
 ### 🌐 Socials:
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/sr_shelby02) 
-[![Twitter](https://icongr.am/devicon/twitter-original.svg?size=40&color=currentColor)](https://twitter.com/sr_shelby0)
 
 
 ### 💻 Tech Stack:
 ![HTML](https://deviconapi.vercel.app/html5?color=E54D26ff&size=40)
 ![CSS](https://deviconapi.vercel.app/css3?color=3D8FC6FF&size=40)
-![C++](https://deviconapi.vercel.app/cplusplus?color=9C033Aff&size=40)
 ![JS](https://deviconapi.vercel.app/javascript?color=F0DB4FFF&size=40)
+![C++](https://deviconapi.vercel.app/cplusplus?color=9C033Aff&size=40)
 ![JAVA](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
+![PYTHON](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
 
 
 ### 📊 GitHub Stats:

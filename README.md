@@ -17,7 +17,7 @@
 ![JS](https://deviconapi.vercel.app/javascript?color=F0DB4FFF&size=40)
 ![C++](https://deviconapi.vercel.app/cplusplus?color=9C033Aff&size=40)
 ![JAVA](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
-![PYTHON](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
+![PYTHON](https://deviconapi.vercel.app/python?color=EA2D2Eff&size=40)
 
 
 ### 📊 GitHub Stats:

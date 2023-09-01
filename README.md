@@ -3,8 +3,10 @@
 <!-- **Shadow-Captain/Shadow-Captain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - Views: [![](https://visitcount.itsvg.in/api?id=shadow-captain&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
-- Telegram BOT: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/StarkIMC_Bot)
 - Linktree: [![Linktree](https://img.shields.io/badge/Linktree-%23F39F37.svg?logo=linktree&logoColor=white)](https://www.linktree.com/Sr.Shelby)
+- Hostinger: [![Hostinger](https://img.shields.io/badge/Hostinger-%23191919.svg?logo=hostinger&logoColor=white)](https://hostinger.mx?REFERRALCODE=1ANGELGAMER10)
+- Telegram BOT: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/StarkIMC_Bot)
+- Buy Me a Coffee: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/sr.shelby)
 
 
 ### 🌐 Socials:

@@ -4,7 +4,6 @@
 
 - Views: [![](https://visitcount.itsvg.in/api?id=shadow-captain&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 - Linktree: [![Linktree](https://img.shields.io/badge/Linktree-%23F39F37.svg?logo=linktree&logoColor=white)](https://www.linktree.com/Sr.Shelby)
-- Hostinger: [![Hostinger](https://img.shields.io/badge/Hostinger-%23191919.svg?logo=hostinger&logoColor=white)](https://hostinger.mx?REFERRALCODE=1ANGELGAMER10)
 - Telegram BOT: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/StarkIMC_Bot)
 - Buy Me a Coffee: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/sr.shelby)
 
@@ -17,9 +16,6 @@
 ![HTML](https://deviconapi.vercel.app/html5?color=E54D26ff&size=40)
 ![CSS](https://deviconapi.vercel.app/css3?color=3D8FC6FF&size=40)
 ![JS](https://deviconapi.vercel.app/javascript?color=F0DB4FFF&size=40)
-![C++](https://deviconapi.vercel.app/cplusplus?color=9C033Aff&size=40)
-![JAVA](https://deviconapi.vercel.app/java?color=EA2D2Eff&size=40)
-![PYTHON](https://deviconapi.vercel.app/python?size=40)
 
 
 ### 📊 GitHub Stats:

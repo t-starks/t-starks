@@ -16,9 +16,10 @@
 ![HTML](https://deviconapi.vercel.app/html5?color=E54D26ff&size=40)
 ![CSS](https://deviconapi.vercel.app/css3?color=3D8FC6FF&size=40)
 ![JS](https://deviconapi.vercel.app/javascript?color=F0DB4FFF&size=40)
+
 ![Python](https://deviconapi.vercel.app/python?color=306998,FFD43B&size=40)
 ![C++](https://deviconapi.vercel.app/cplusplus?color=00599C&size=40)
-![Shell](https://deviconapi.vercel.app/shell?size=40)
+![Bash](https://deviconapi.vercel.app/bash?size=40)
 
 ### 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Captain&layout=compact&theme=cobalt2)

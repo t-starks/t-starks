@@ -5,14 +5,10 @@
 <h1 align="center">Hi 👋, I'm T. Stark</h1>
 <h3 align="center">Lover of programming and kittens.</h3>
 
-- Views: [![](https://visitcount.itsvg.in/api?id=Shadow-Captain&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
-- Linktree: [![Linktree](https://img.shields.io/badge/Linktree-%23F39F37.svg?logo=linktree&logoColor=white)](https://www.linktree.com/Sr.Shelby)
-- Telegram BOT: [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/StarkIMC_Bot)
-- Buy Me a Coffee: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/sr.shelby)
-
 
 ### Connect with me:
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/sr_shelby02)
+[![YouTube](https://img.icons8.com/fluency/48/000000/youtube-play.png)](https://youtube.com/@t-starks)
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/t-stark)
 
 

@@ -6,9 +6,9 @@
 <h3 align="center">Lover of programming and kittens.</h3>
 
 ### 🌐 Web Sites:
-- [Pocket Mine School](https://pocketmineschool.netlify.app/)
-- [ImagoText](https://imagotext.netlify.app/)
-- [MCPETools](https://mcpetools.surge.sh/)
+- [<img src="https://pocketmineschool.netlify.app/favicon.ico" alt="Pocket Mine School" width="16" height="16"/> Pocket Mine School](https://pocketmineschool.netlify.app/)
+- [<img src="https://imagotext.netlify.app/favicon.ico" alt="ImagoText" width="16" height="16"/> ImagoText](https://imagotext.netlify.app/)
+- [<img src="https://mcpetools.surge.sh/favicon.ico" alt="MCPETools" width="16" height="16"/> MCPETools](https://mcpetools.surge.sh/)
 
 ### Connect with me:
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/sr_shelby02)

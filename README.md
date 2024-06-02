@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm T. Stark</h1>
 <h3 align="center">Lover of programming and kittens.</h3>
 
+![](https://komarev.com/ghpvc/?username=t-starks&color=blue)
+
 ### 🌐 Web Sites:
 - [<img src="https://pocketmineschool.netlify.app/favicon.ico" alt="Pocket Mine School" width="40" height="40"/> Pocket Mine School](https://pocketmineschool.netlify.app/)
 - [<img src="https://imagotext.netlify.app/favicon.ico" alt="ImagoText" width="40" height="40"/> ImagoText](https://imagotext.netlify.app/)
@@ -34,16 +36,11 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=t-starks&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=t-starks&theme=tokyonight&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=t-starks&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=t-starks&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-starks&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/t-starks)
+![T. Stark github stats](https://github-readme-stats.vercel.app/api/?username=t-starks&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=t-starks&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=t-starks&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/t.stark)

@@ -19,20 +19,22 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-stark)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/t-starks)
 
-
-### 💻 Tech Stack:
-![html5](https://deviconapi.vercel.app/html5?version=plain-wordmark&color=E54D26ff&size=50)
-![css3](https://deviconapi.vercel.app/css3?version=plain-wordmark&color=3D8FC6ff&size=50)
-![javascript](https://deviconapi.vercel.app/javascript?color=F0DB4Fff&size=50)
-![git](https://deviconapi.vercel.app/git?version=plain-wordmark&color=F34F29ff&size=50)
-![mysql](https://deviconapi.vercel.app/mysql?version=plain-wordmark&color=00618Aff&size=50)
-![nodejs](https://deviconapi.vercel.app/nodejs?version=plain-wordmark&color=83CD29ff&size=50)
-
-![java](https://deviconapi.vercel.app/java?version=plain-wordmark&color=EA2D2Eff&size=50)
-![cplusplus](https://deviconapi.vercel.app/cplusplus?version=line&color=9C033Aff&size=50)
-![python](https://deviconapi.vercel.app/python?version=plain-wordmark&color=FFD845ff&size=50)
-![arduino](https://deviconapi.vercel.app/arduino?version=plain-wordmark&color=00979Dff&size=50)
-![bash](https://deviconapi.vercel.app/bash?color=293138ff&size=50)
+<p aling="center">
+<Br>
+  
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD845?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Bash-293138?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<Br>
+</p>
 
 
 ## 📊 GitHub Stats:

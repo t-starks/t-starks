@@ -15,7 +15,11 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>&nbsp;
+  <a href="#"><img src="" alt=""></a>&nbsp;
   <br>
   <a href="#"><img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>&nbsp;
@@ -23,6 +27,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Node.js-83CD29?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Bash-293138?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>&nbsp;
+  <a href="#"><img src="" alt=""></a>&nbsp;
   <br>
 </p>
 

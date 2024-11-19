@@ -54,7 +54,7 @@
 
 
 ## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-starks&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/t-starks)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-starks&theme=algolia&show_icons=true&hide_border=true&layout=compact)](https://github.com/t-starks)
 ![T. Stark github stats](https://github-readme-stats.vercel.app/api/?username=t-starks&show_icons=true&hide_border=true&theme=algolia&count_private=true)
 
 ## 🏆 GitHub Trophies

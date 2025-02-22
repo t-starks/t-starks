@@ -37,9 +37,9 @@
 ### Connect with me:
 <p align="center">
   <br>
-  <a href="https://www.instagram.com/sr_shelby02"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+  <a href="https://www.instagram.com/tstark.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://www.youtube.com/@t-starks"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp;
-  <a href="https://www.tiktok.com/@t.starkofc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>&nbsp;
+  <a href="https://www.tiktok.com/@tstark.dev"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>&nbsp;
   <br>
   <a href="https://linkedin.com/in/t-stark"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/t-starks"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;

@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm T. Stark</h1>
 <h3 align="center">Lover of programming and kittens.</h3>
+<h3 align="center">Desarrollo tu bot de discord $$$.</h3>
+<h4 align="center">Contactame aqui: https://discord.gg/e5tfv6Txqs</h4>
 
 ![](https://komarev.com/ghpvc/?username=t-starks&color=blue)
 

@@ -36,6 +36,22 @@
 </p>
 
 
+### 💻 Plugins Pocketmine:
+<div align="center">
+
+| **Plugins**        | **Version**                                                                                  | **API**                                                                                  | **Downloads**                                                                                     |
+|--------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| ClearLag-Mc        | [![](https://poggit.pmmp.io/shield.state/ClearLag-Mc)](https://poggit.pmmp.io/p/ClearLag-Mc)         | [![](https://poggit.pmmp.io/shield.api/ClearLag-Mc)](https://poggit.pmmp.io/p/ClearLag-Mc)         | [![](https://poggit.pmmp.io/shield.dl.total/ClearLag-Mc)](https://poggit.pmmp.io/p/ClearLag-Mc)         |
+| JailX              | [![](https://poggit.pmmp.io/shield.state/JailX)](https://poggit.pmmp.io/p/JailX)                     | [![](https://poggit.pmmp.io/shield.api/JailX)](https://poggit.pmmp.io/p/JailX)                     | [![](https://poggit.pmmp.io/shield.dl.total/JailX)](https://poggit.pmmp.io/p/JailX)                     |
+| Fly                | [![](https://poggit.pmmp.io/shield.state/Fly)](https://poggit.pmmp.io/p/Fly)                         | [![](https://poggit.pmmp.io/shield.api/Fly)](https://poggit.pmmp.io/p/Fly)                         | [![](https://poggit.pmmp.io/shield.dl.total/Fly)](https://poggit.pmmp.io/p/Fly)                         |
+| Announcer          | [![](https://poggit.pmmp.io/shield.state/Announcer)](https://poggit.pmmp.io/p/Announcer)             | [![](https://poggit.pmmp.io/shield.api/Announcer)](https://poggit.pmmp.io/p/Announcer)             | [![](https://poggit.pmmp.io/shield.dl.total/Announcer)](https://poggit.pmmp.io/p/Announcer)             |
+| Xbox               | [![](https://poggit.pmmp.io/shield.state/Xbox)](https://poggit.pmmp.io/p/Xbox)                       | [![](https://poggit.pmmp.io/shield.api/Xbox)](https://poggit.pmmp.io/p/Xbox)                       | [![](https://poggit.pmmp.io/shield.dl.total/Xbox)](https://poggit.pmmp.io/p/Xbox)                       |
+| WelcomeMessages    | [![](https://poggit.pmmp.io/shield.state/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) | [![](https://poggit.pmmp.io/shield.api/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) | [![](https://poggit.pmmp.io/shield.dl.total/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) |
+
+</div>
+
+
+
 ### Connect with me:
 <p align="center">
   <br>

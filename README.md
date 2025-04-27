@@ -47,6 +47,7 @@
 | Announcer          | [![](https://poggit.pmmp.io/shield.state/Announcer)](https://poggit.pmmp.io/p/Announcer)             | [![](https://poggit.pmmp.io/shield.api/Announcer)](https://poggit.pmmp.io/p/Announcer)             | [![](https://poggit.pmmp.io/shield.dl.total/Announcer)](https://poggit.pmmp.io/p/Announcer)             |
 | Xbox               | [![](https://poggit.pmmp.io/shield.state/Xbox)](https://poggit.pmmp.io/p/Xbox)                       | [![](https://poggit.pmmp.io/shield.api/Xbox)](https://poggit.pmmp.io/p/Xbox)                       | [![](https://poggit.pmmp.io/shield.dl.total/Xbox)](https://poggit.pmmp.io/p/Xbox)                       |
 | WelcomeMessages    | [![](https://poggit.pmmp.io/shield.state/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) | [![](https://poggit.pmmp.io/shield.api/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) | [![](https://poggit.pmmp.io/shield.dl.total/WelcomeMessages)](https://poggit.pmmp.io/p/WelcomeMessages) |
+| TPAccept    | [![](https://poggit.pmmp.io/shield.state/TPAccept)](https://poggit.pmmp.io/p/TPAccept) | [![](https://poggit.pmmp.io/shield.api/TPAccept)](https://poggit.pmmp.io/p/TPAccept) | [![](https://poggit.pmmp.io/shield.dl.total/TPAccept)](https://poggit.pmmp.io/p/TPAccept) |
 
 </div>
 

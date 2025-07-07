@@ -69,7 +69,7 @@
 ### 🌐 Web Sites:
 - [<img src="https://pocketmineschool.netlify.app/favicon.ico" alt="Pocket Mine School" width="40" height="40"/> Pocket Mine School](https://pocketmineschool.netlify.app/)
 - [<img src="https://imagotext.netlify.app/favicon.ico" alt="ImagoText" width="40" height="40"/> ImagoText](https://imagotext.netlify.app/)
-- [<img src="https://mcpetools.surge.sh/favicon.ico" alt="MCPETools" width="40" height="40"/> MCPETools](https://mcpetools.surge.sh/)
+- [<img src="http://minecraftpetools.netlify.app/favicon.ico" alt="MCPETools" width="40" height="40"/> MinecraftPe Tools](http://minecraftpetools.netlify.app/)
 
 
 ## 📊 GitHub Stats:
